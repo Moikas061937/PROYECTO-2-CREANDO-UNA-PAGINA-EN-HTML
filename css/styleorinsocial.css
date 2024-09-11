@@ -1,0 +1,26 @@
+body{
+    background-image:url(../imagenes/abstract-silver-background-484.png);
+}
+h1{
+font-size: 20px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color:rgb(0, 70, 100)
+}
+h2{
+font-size: 50px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color:rgb(0, 115, 175);
+font-size: 50px; 
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, serif; text-align: center;
+}
+.lol{
+    margin-left: 50px;
+    font-size: larger;
+    color: rgb(0, 115, 175);
+}
+th{
+    color: rgb(0, 70, 100);
+}
+p{
+    color: rgb(0,70, 100);
+}

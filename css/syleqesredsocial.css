@@ -1,0 +1,14 @@
+body{
+    background-image: url(../imagenes/silver-lines-1791.png);
+}
+h1{
+font-size: 20px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color:rgb(0, 70, 100);
+}
+p{
+    font-size:large; 
+    color: rgb(0, 115, 175); 
+    padding: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
